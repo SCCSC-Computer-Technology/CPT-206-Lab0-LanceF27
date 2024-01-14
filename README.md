@@ -5,6 +5,7 @@
 ## Education Goals
 
 * Earn additional certifications.
+* Get involved in computer club and attend more events.
 
 ## Career Goals
 
