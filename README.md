@@ -1,4 +1,4 @@
-## About me # :Wave
+## About me :+1
 
 * I am an IT/Programming and Database student at SCC. I should finish my degree this summer, assuming I don't drop any classes.
 
