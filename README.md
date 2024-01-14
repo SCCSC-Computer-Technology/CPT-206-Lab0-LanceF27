@@ -1,7 +1,7 @@
 <link href="style. css" rel="stylesheet"></link>
-#LANCEF27 MESSAGE MARKDOWN FILE
+# LANCEF27 MESSAGE MARKDOWN FILE
 
-##About me
+## About me
 
 *I am an IT/Programming and Database student at SCC. I should finish my degree this summer, assuming I don't drop any classes.
 
