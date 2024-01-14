@@ -4,9 +4,9 @@
 
 ## Education Goals
 
-* Earn additional cerifications.
+* Earn additional certifications.
 
-## areer Goals
+## Career Goals
 
 * Get foot in the door with IT helpdesk support or IT security.
 
